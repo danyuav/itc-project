@@ -1,0 +1,43 @@
+h1 {
+    background-image: xlinear-gradient(to left, white, green); 
+    text-align: center;
+    color:white;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size=500px;
+}
+
+
+h3 {font-family: 'Merriweather Sans', sans-serif;
+    text-align: center;
+    color: white;
+    line-height: 60px;
+}
+
+p{
+  font-family: 'Merriweather Sans', sans-serif;
+    text-align: center;
+    color: white;
+    size=20px;
+    background-image: linear-gradient(to bottom right, brown, blue)
+
+}
+body{
+      
+      background-image:url("bodybg.jpeg");
+      background-repeat: no-repeat;
+      background-position: 45% 70%;
+      background-attachment: fixed;
+      margin:auto;
+      height:100%
+      width:100%;
+      padding:0;
+}
+
+.navbar{
+  padding: 20;
+  display: inline-block;
+}
+#navContainer{
+  text-align: center;
+  
+}
